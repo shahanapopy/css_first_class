@@ -1,0 +1,35 @@
+h1{
+	color: red;
+	color: green;
+	color: blue;/*solid color name*/
+	background-color: yellow;
+	border:5px dashed red;
+	font-size: 30px;
+}
+.head1{
+	border:none;
+	color: rgb(22 122 222);/*rgb()color name*/
+	background: #ddd;/*hexadecimal color name*/
+}
+#id1{
+	color: white;
+	background: #9f3d00;
+	font-size: 30px;
+}
+.head2{
+	font-weight: 700px;
+}
+.opacity{
+	font-size: 30px;
+	color: white;
+	background-color: rgba(0,255,0,.7);
+}
+.box img{
+	position: absolute;
+}
+.box .box1{
+	width: 400px;
+	height: 400px;
+	position: relative;
+	background-color: rgba(0,255,0,.5);
+}
